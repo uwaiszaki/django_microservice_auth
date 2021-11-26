@@ -1,0 +1,9 @@
+setup.py
+django_microservice_auth/__init__.py
+django_microservice_auth/auth.py
+django_microservice_auth/exceptions.py
+django_microservice_auth.egg-info/PKG-INFO
+django_microservice_auth.egg-info/SOURCES.txt
+django_microservice_auth.egg-info/dependency_links.txt
+django_microservice_auth.egg-info/requires.txt
+django_microservice_auth.egg-info/top_level.txt

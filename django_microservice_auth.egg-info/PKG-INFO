@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: django-microservice-auth
+Version: 0.0.1
+Summary: Django Microservice Authentication package
+Home-page: https://github.com/uwaiszaki/django_user_service_auth.git
+Author: Uwais Zaki
+Author-email: uwaiszaki104@gmail.com
+License: unlicense
+Description: UNKNOWN
+Platform: UNKNOWN
