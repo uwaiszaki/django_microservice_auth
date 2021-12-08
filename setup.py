@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='django_microservice_auth',
-    version='0.0.1',
+    version='0.0.2',
     description='Django Microservice Authentication package',
     url='https://github.com/uwaiszaki/django_user_service_auth.git',
     author='Uwais Zaki',
@@ -10,7 +10,7 @@ setup(
     license='unlicense',
     packages=['django_microservice_auth'],
     install_requires=[
-        'Django==3.2.',
+        'Django>=3',
         'djangorestframework-jwt==1.11.0',
     ],
 )
